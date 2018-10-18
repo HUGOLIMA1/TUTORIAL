@@ -1,0 +1,914 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/foxnews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ANIMAL PLANET HD***">
+    <display-name lang="pt">ANIMAL PLANET HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/itutv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ARTE HD 1***">
+    <display-name lang="pt">ARTE 1 HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/globo-df.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AXN HD***">
+    <display-name lang="pt">AXN HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/recordtv-interiorsp.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BABY TV***">
+    <display-name lang="pt">BABY TV***</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BAND HD">
+    <display-name lang="pt">BAND HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BAND NEWS HD***">
+    <display-name lang="pt">BAND NEWS HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sbtinterior.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BAND SPORTS HD***">
+    <display-name lang="pt">BAND SPORTS HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redeclube.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BIS HD***">
+    <display-name lang="pt">BIS HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sbt-brasilia.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BOOMERANG HD***">
+    <display-name lang="pt">BOOMERANG HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/pontanegranews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CANAL BRASIL HD***">
+    <display-name lang="pt">CANAL BRASIL HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/rstv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CARTOON NETWORK HD***">
+    <display-name lang="pt">CARTOON NETWORK HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvmaster.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CINEMAX HD***">
+    <display-name lang="pt">CINEMAX HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcluberibeirao.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="COMBATE HD***">
+    <display-name lang="pt">COMBATE HD***</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="COMEDY CENTRAL HD***">
+    <display-name lang="pt">COMEDY CENTRAL HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/zoomoo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CURTA! HD***">
+    <display-name lang="pt">CURTA! HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/1001noites.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL HD***">
+    <display-name lang="pt">DISCOVERY CHANNEL HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvb.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY CIVILIZATION HD***">
+    <display-name lang="pt">DISCOVERY CIVILIZATION HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/filmandarts.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY KIDS HD***">
+    <display-name lang="pt">DISCOVERY KIDS HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/cnne.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE HD***">
+    <display-name lang="pt">DISCOVERY SCIENCE HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvuniao.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY THEATER HD***">
+    <display-name lang="pt">DISCOVERY THEATER HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvsenado.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO HD***">
+    <display-name lang="pt">DISCOVERY TURBO HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/premiere7.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY WORLD HD***">
+    <display-name lang="pt">DISCOVERY WORLD HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/ric.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISNEY CHANNEL HD***">
+    <display-name lang="pt">DISNEY CHANNEL HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvassembleia-pr.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISNEY JUNIOR***">
+    <display-name lang="pt">DISNEY JUNIOR***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvjornal-limeira.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISNEY XD***">
+    <display-name lang="pt">DISNEY XD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvbaiana.gif|http://www.lineup.tv.br/canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="E! HD***">
+    <display-name lang="pt">E! HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/nsctv.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN+ HD***">
+    <display-name lang="pt">ESPN+ HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvescola.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN BRASIL HD***">
+    <display-name lang="pt">ESPN BRASIL HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/hbosignature.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN EXTRA HD***">
+    <display-name lang="pt">ESPN EXTRA HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvjornal.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN HD***">
+    <display-name lang="pt">ESPN HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvci.gif|http://www.lineup.tv.br/canais/rci.gif|http://www.lineup.tv.br/canais/redemundial1.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOX HD***">
+    <display-name lang="pt">FOX HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sundance.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOX LIFE HD***">
+    <display-name lang="pt">FOX LIVE HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcapixaba.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOX SPORTS HD***">
+    <display-name lang="pt">FOX SPORTS HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/gloobinho.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOX SPORTS 2 HD***">
+    <display-name lang="pt">FOX SPORTS 2 HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/dwtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FUTURA HD***">
+    <display-name lang="pt">FUTURA HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvtribuna-pe.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FX HD***">
+    <display-name lang="pt">FX HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvsergipe.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO SP HD***">
+    <display-name lang="pt">GLOBO SP HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvalterosa.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO NEWS HD***">
+    <display-name lang="pt">GLOBO NEWS HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/premiere.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GNT HD***">
+    <display-name lang="pt">GNT HD***</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvmeridional.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="pt">H2</display-name>
+    <icon src="http://www.lineup.tv.br/canais/paramount.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20181018000000 -0300" stop="20181018004500 -0300" channel="COMBATE HD***">
+    <title lang="pt">The Ultimate Fighter 22</title>
+    <sub-title lang="pt">Team Mcgregor x Team Faber</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018004500 -0300" stop="20181018013000 -0300" channel="COMBATE HD***">
+    <title lang="pt">The Ultimate Fighter 28: Heavy Hitters</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018013000 -0300" stop="20181018050000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC 228</title>
+    <sub-title lang="pt">Woodley x Till</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018050000 -0300" stop="20181018070000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Arena Striking</title>
+    <sub-title lang="pt">Skaus Combat 3</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018070000 -0300" stop="20181018090000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">Cage Rage 14: Punishment</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018090000 -0300" stop="20181018100000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Especial Combate: 20 anos do UFC no Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018100000 -0300" stop="20181018110000 -0300" channel="COMBATE HD***">
+    <title lang="pt">The Ultimate Fighter 22</title>
+    <sub-title lang="pt">Team Mcgregor x Team Faber</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018110000 -0300" stop="20181018120000 -0300" channel="COMBATE HD***">
+    <title lang="pt">The Ultimate Fighter 28: Heavy Hitters</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018120000 -0300" stop="20181018140000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">Cage Rage 14: Punishment</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018140000 -0300" stop="20181018173000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC 229</title>
+    <sub-title lang="pt">Khabib x McGregor</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018173000 -0300" stop="20181018180000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Laboratório da Luta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018180000 -0300" stop="20181018183000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018183000 -0300" stop="20181018190000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Mulheres Na Luta: Garotas do Ringue</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018190000 -0300" stop="20181018200000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Especial Combate: 20 anos do UFC no Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018200000 -0300" stop="20181018210000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">UFC Main Event: Edgar x Maynard 3</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018210000 -0300" stop="20181018220000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC Now</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181018220000 -0300" stop="20181019000000 -0300" channel="COMBATE HD***">
+    <title lang="pt">WEC 43</title>
+    <sub-title lang="pt">Cerrone x Henderson</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019000000 -0300" stop="20181019010000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">UFC Main Event: Edgar x Maynard 3</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019010000 -0300" stop="20181019043000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC 227</title>
+    <sub-title lang="pt">Dillashaw x Garbrandt 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019043000 -0300" stop="20181019050000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Mulheres Na Luta: Garotas do Ringue</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019050000 -0300" stop="20181019070000 -0300" channel="COMBATE HD***">
+    <title lang="pt">WEC 43</title>
+    <sub-title lang="pt">Cerrone x Henderson</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019070000 -0300" stop="20181019090000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">Shooto 88</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019090000 -0300" stop="20181019100000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">UFC Main Event: Edgar x Maynard 3</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019100000 -0300" stop="20181019120000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Arena Grappling</title>
+    <sub-title lang="pt">Abu Dhabi Grand Slam Etapa Los Angeles</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019120000 -0300" stop="20181019153000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC 227</title>
+    <sub-title lang="pt">Dillashaw x Garbrandt 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019153000 -0300" stop="20181019160000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Mulheres Na Luta: Garotas do Ringue</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019160000 -0300" stop="20181019170000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019170000 -0300" stop="20181019180000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC Now</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019180000 -0300" stop="20181019190000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">UFC Main Event: Edgar x Maynard 3</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019190000 -0300" stop="20181019191500 -0300" channel="COMBATE HD***">
+    <title lang="pt">Giro Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019191500 -0300" stop="20181019201500 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019201500 -0300" stop="20181019234500 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Alvarez x Poirier</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181019234500 -0300" stop="20181020000000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Giro Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020000000 -0300" stop="20181020003000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Mulheres Na Luta: Garotas do Ringue</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020003000 -0300" stop="20181020013000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Sensei Combate</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020013000 -0300" stop="20181020014500 -0300" channel="COMBATE HD***">
+    <title lang="pt">Giro Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020014500 -0300" stop="20181020024500 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC Now</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020024500 -0300" stop="20181020034500 -0300" channel="COMBATE HD***">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020034500 -0300" stop="20181020054500 -0300" channel="COMBATE HD***">
+    <title lang="pt">WEC 43</title>
+    <sub-title lang="pt">Cerrone x Henderson</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020054500 -0300" stop="20181020060000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Giro Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020060000 -0300" stop="20181020070000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC Now</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020070000 -0300" stop="20181020090000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Arena Striking</title>
+    <sub-title lang="pt">Skaus Combat 3</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020090000 -0300" stop="20181020110000 -0300" channel="COMBATE HD***">
+    <title lang="pt">WEC 43</title>
+    <sub-title lang="pt">Cerrone x Henderson</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020110000 -0300" stop="20181020120000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Sensei Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020120000 -0300" stop="20181020130000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020130000 -0300" stop="20181020134500 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC Now</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020134500 -0300" stop="20181020140000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Giro Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020140000 -0300" stop="20181020160000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Glory 60</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020160000 -0300" stop="20181020203000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Glory 60</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020203000 -0300" stop="20181020214500 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC 229</title>
+    <sub-title lang="pt">Khabib x McGregor</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020214500 -0300" stop="20181020221500 -0300" channel="COMBATE HD***">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Mulheres Na Luta: Garotas do Ringue</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020221500 -0300" stop="20181020223000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Giro Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181020223000 -0300" stop="20181021033000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Boxe Internacional: Esquiva Falcão x Guido Nicolas</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181021033000 -0300" stop="20181021050000 -0300" channel="COMBATE HD***">
+    <title lang="pt">WEC 43</title>
+    <sub-title lang="pt">Cerrone x Henderson</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181021050000 -0300" stop="20181021060000 -0300" channel="COMBATE HD***">
+    <title lang="pt">The Ultimate Fighter 22</title>
+    <sub-title lang="pt">Team Mcgregor x Team Faber</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181021060000 -0300" stop="20181021070000 -0300" channel="COMBATE HD***">
+    <title lang="pt">The Ultimate Fighter 28: Heavy Hitters</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181021070000 -0300" stop="20181021103000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC 229</title>
+    <sub-title lang="pt">Khabib x McGregor</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181021103000 -0300" stop="20181021123000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">Shooto 88</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181021123000 -0300" stop="20181021160000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Alvarez x Poirier</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181021160000 -0300" stop="20181021180000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Arena Grappling</title>
+    <sub-title lang="pt">Abu Dhabi Grand Slam Etapa Los Angeles</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181021180000 -0300" stop="20181021200000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Arena Striking</title>
+    <sub-title lang="pt">Skaus Combat 3</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181021200000 -0300" stop="20181021220000 -0300" channel="COMBATE HD***">
+    <title lang="pt">WEC 43</title>
+    <sub-title lang="pt">Cerrone x Henderson</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181021220000 -0300" stop="20181022013000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC 227</title>
+    <sub-title lang="pt">Dillashaw x Garbrandt 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181022013000 -0300" stop="20181022033000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">Shooto 88</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181022033000 -0300" stop="20181022070000 -0300" channel="COMBATE HD***">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Alvarez x Poirier</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181022070000 -0300" stop="20181022090000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181022090000 -0300" stop="20181022110000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181022110000 -0300" stop="20181022130000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181022130000 -0300" stop="20181022150000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181022150000 -0300" stop="20181022170000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181022170000 -0300" stop="20181022190000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181022190000 -0300" stop="20181022200000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181022200000 -0300" stop="20181022210000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181022210000 -0300" stop="20181022220000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181022220000 -0300" stop="20181023000000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181023000000 -0300" stop="20181023020000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181023020000 -0300" stop="20181023040000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181023040000 -0300" stop="20181023060000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181023060000 -0300" stop="20181023080000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181023080000 -0300" stop="20181023100000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181023100000 -0300" stop="20181023120000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181023120000 -0300" stop="20181023140000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181023140000 -0300" stop="20181023160000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181023160000 -0300" stop="20181023180000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181023180000 -0300" stop="20181023200000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181023200000 -0300" stop="20181023220000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181023220000 -0300" stop="20181024000000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181024000000 -0300" stop="20181024020000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181024020000 -0300" stop="20181024040000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181024040000 -0300" stop="20181024060000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181024060000 -0300" stop="20181024080000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181024080000 -0300" stop="20181024100000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181024100000 -0300" stop="20181024120000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181024120000 -0300" stop="20181024140000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181024140000 -0300" stop="20181024160000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181024160000 -0300" stop="20181024180000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181024180000 -0300" stop="20181024200000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181024200000 -0300" stop="20181024220000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181024220000 -0300" stop="20181025000000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181025000000 -0300" stop="20181025020000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181025020000 -0300" stop="20181025040000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181025040000 -0300" stop="20181025060000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181025060000 -0300" stop="20181025080000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181025080000 -0300" stop="20181025100000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181025100000 -0300" stop="20181025120000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181025120000 -0300" stop="20181025140000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181025140000 -0300" stop="20181025160000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181025160000 -0300" stop="20181025180000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181025180000 -0300" stop="20181025200000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181025200000 -0300" stop="20181025220000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181025220000 -0300" stop="20181026000000 -0300" channel="COMBATE HD***">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
